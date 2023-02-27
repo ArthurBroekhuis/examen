@@ -4,5 +4,5 @@
    include_once($path);
 ?>
 <section class="container section section__height" id="home">
-    <h2 class="section__title">Home</h2>
+    <h2 class="section__title">Uren</h2>
 </section>
